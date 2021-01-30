@@ -4,7 +4,7 @@
 [![Version badge]][crates.io]
 [![Docs badge]][docs.rs]
 
-[CodeBuild]: https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiS0JKWUZxR2dEQmgydm9hczFTOUhqRDdwbFlmQ3FnZzErc3VVSWxmUzNNdjJ6T0FKemJEMVIyU01Hb0w2Q042a2pmdENBRDNlc20zVXlxRGVpdXlUbGJBPSIsIml2UGFyYW1ldGVyU3BlYyI6IlRnUFlMVGdJM2VpVzZ6bEkiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
+[CodeBuild]: https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiaWV1SWhZbW5QTEhoL0lnZEpKb1ZxZGNQUnlDZStkQ01yTWhSMm5wUFNTc0xLRlUyQ1JUdkwvKzRhRTQ0c1YxOGNRTzJORjY4T2d1WFRsSWRJMy9hS0Q0PSIsIml2UGFyYW1ldGVyU3BlYyI6IkE5dE1Fa2xwdUZNVmU2eFYiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
 [Version badge]: https://img.shields.io/crates/v/btree_error
 [crates.io]: https://crates.io/crates/btree_error
 [Docs badge]: https://img.shields.io/badge/docs.rs-rustdoc-blue
