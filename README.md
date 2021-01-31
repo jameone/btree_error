@@ -1,6 +1,6 @@
 # Binary Tree Error (btree_error)
 
-[![CodeBuild]][CodeBuild]
+![CodeBuild]
 [![Version badge]][crates.io]
 [![Docs badge]][docs.rs]
 
