@@ -10,7 +10,7 @@ homepage = "https://github.com/jameone/btree_error"
 repository = "https://github.com/jameone/btree_error"
 keywords = ["bforest", "error"]
 categories = ["no-std"]
-readme = "README.md"
+readme = "crates-io.md"
 
 [[test]]
 name = "integration"
