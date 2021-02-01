@@ -1,10 +1,18 @@
 # Binary Tree Error (btree_error)
 
-![CodeBuild]
+## Branch Status
+
+| build                 | test               | main               |
+| :-------------------: | :----------------: | :----------------: |
+| ![CodeBuild(build)]   | ![CodeBuild(test)] | ![CodeBuild(main)] |
+
+![CodeBuild(main)]
 [![Version badge]][crates.io]
 [![Docs badge]][docs.rs]
 
-[CodeBuild]: https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiaWV1SWhZbW5QTEhoL0lnZEpKb1ZxZGNQUnlDZStkQ01yTWhSMm5wUFNTc0xLRlUyQ1JUdkwvKzRhRTQ0c1YxOGNRTzJORjY4T2d1WFRsSWRJMy9hS0Q0PSIsIml2UGFyYW1ldGVyU3BlYyI6IkE5dE1Fa2xwdUZNVmU2eFYiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
+[CodeBuild(main)]: https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiaWV1SWhZbW5QTEhoL0lnZEpKb1ZxZGNQUnlDZStkQ01yTWhSMm5wUFNTc0xLRlUyQ1JUdkwvKzRhRTQ0c1YxOGNRTzJORjY4T2d1WFRsSWRJMy9hS0Q0PSIsIml2UGFyYW1ldGVyU3BlYyI6IkE5dE1Fa2xwdUZNVmU2eFYiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
+[CodeBuild(test)]: https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiaWV1SWhZbW5QTEhoL0lnZEpKb1ZxZGNQUnlDZStkQ01yTWhSMm5wUFNTc0xLRlUyQ1JUdkwvKzRhRTQ0c1YxOGNRTzJORjY4T2d1WFRsSWRJMy9hS0Q0PSIsIml2UGFyYW1ldGVyU3BlYyI6IkE5dE1Fa2xwdUZNVmU2eFYiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
+[CodeBuild(build)]: https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiaWV1SWhZbW5QTEhoL0lnZEpKb1ZxZGNQUnlDZStkQ01yTWhSMm5wUFNTc0xLRlUyQ1JUdkwvKzRhRTQ0c1YxOGNRTzJORjY4T2d1WFRsSWRJMy9hS0Q0PSIsIml2UGFyYW1ldGVyU3BlYyI6IkE5dE1Fa2xwdUZNVmU2eFYiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
 [Version badge]: https://img.shields.io/crates/v/btree_error
 [crates.io]: https://crates.io/crates/btree_error
 [Docs badge]: https://img.shields.io/badge/docs.rs-rustdoc-blue
